@@ -2,7 +2,7 @@
 # UW Waitlisters - Spring 2023
 
 ## What is UW Waitlisters?
-UW Waitlisters is a web application designed to streamline student-professor question sessions, often known as Office Hours. Office Hours offer students the ability to consult with the teaching faculty individually for help with a variety of issues: homework, lecture concepts, grading, test review, and more. UW Waitlisters offers a variety of features to better fascilitate Office Hours events so students can recieve help in a timely manner while reducing management overhead for professors.  
+UW Waitlisters is a web application designed to streamline student-professor question sessions, often known as Office Hours. Office Hours offer students the ability to consult with the teaching faculty individually for help with a variety of issues: homework, lecture concepts, grading, test review, and more. UW Waitlisters offers a variety of features to better facilitate Office Hours events so students can recieve help in a timely manner while reducing management overhead for professors.  
 
 ## Features
 - #### Create an account with UW Waitlisters. 
